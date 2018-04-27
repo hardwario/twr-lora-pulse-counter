@@ -55,6 +55,11 @@ void lora_event_handler(bc_cmwx1zzabz_t *self, bc_cmwx1zzabz_event_t event, void
 { 
     (void) event_param;
 
+    if (event == BC_CMWX1ZZABZ_EVENT_READY)
+    {
+        bc_led_set_mode(&led, BC_LED_MODE_OFF);
+    }
+
     if (event == BC_CMWX1ZZABZ_EVENT_ERROR)
     {
         bc_led_set_mode(&led, BC_LED_MODE_BLINK);

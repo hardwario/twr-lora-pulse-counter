@@ -7,13 +7,15 @@ addons:
     packages:
       - gcc-arm-embedded
 script:
-  - make release OUT=bcf-skeleton-${TRAVIS_TAG} VERSION=${TRAVIS_TAG}
+  - make release OUT=bcf-kit-lora-pulse-counter-${TRAVIS_TAG} VERSION=${TRAVIS_TAG}
 deploy:
   skip_cleanup: true
   file_glob: true
-  file: out/release/*.bin
+  file: out/release/firmware.bin
   api_key: ${GITHUB_KEY}
   provider: releases
   overwrite: true
   on:
     tags: true
+notifications:
+  email: false
