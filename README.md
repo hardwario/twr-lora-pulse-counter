@@ -2,9 +2,9 @@
 
 # LoRa pulse counter kit firmware
 
-[![Travis](https://img.shields.io/travis/bigclownlabs/bcf-wireless-voc-sensor/master.svg)](https://travis-ci.org/bigclownlabs/bcf-wireless-voc-sensor)
-[![Release](https://img.shields.io/github/release/bigclownlabs/bcf-wireless-voc-sensor.svg)](https://github.com/bigclownlabs/bcf-wireless-voc-sensor/releases)
-[![License](https://img.shields.io/github/license/bigclownlabs/bcf-wireless-voc-sensor.svg)](https://github.com/bigclownlabs/bcf-wireless-voc-sensor/blob/master/LICENSE)
+[![Travis](https://img.shields.io/travis/bigclownlabs/bcf-kit-lora-pulse-counter/master.svg)](https://travis-ci.org/bigclownlabs/bcf-kit-lora-pulse-counter)
+[![Release](https://img.shields.io/github/release/bigclownlabs/bcf-kit-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-kit-lora-pulse-counter/releases)
+[![License](https://img.shields.io/github/license/bigclownlabs/bcf-kit-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-kit-lora-pulse-counter/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
 
 This repository contains firmware LoRa pulse counter for [Core Module](https://shop.bigclown.com/core-module).
