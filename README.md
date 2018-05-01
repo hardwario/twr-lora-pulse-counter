@@ -15,7 +15,7 @@ If you want to get more information about Core Module, firmware and how to work 
 
 ## Introduction
 
-LoRa pulse counter to be used as a wireles counter. Device running from two AAA batteries. It reports measured data to Sigfox network every 60 minutes.
+LoRa pulse counter to be used as a wireles counter. Device running from two AAA batteries. It reports measured data to LoRaWAN network every 60 minutes.
 
 ## Hardware
 
