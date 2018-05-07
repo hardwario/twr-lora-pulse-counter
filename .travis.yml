@@ -11,7 +11,7 @@ script:
 deploy:
   skip_cleanup: true
   file_glob: true
-  file: out/release/firmware.bin
+  file: out/release/*.bin
   api_key: ${GITHUB_KEY}
   provider: releases
   overwrite: true
