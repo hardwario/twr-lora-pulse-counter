@@ -21,10 +21,10 @@ LoRa pulse counter to be used as a wireles counter. Device running from two AAA 
 
 The following hardware components are used for this project:
 
-* **[Sensor Module](https://shop.bigclown.com/products/sensor-module)**
-* **[Core Module](https://shop.bigclown.com/products/core-module)**
-* **[LoRa Module](https://shop.bigclown.com/products)**
-* **[Mini Battery Module](https://shop.bigclown.com/products/mini-battery-module)**
+* **[Sensor Module](https://shop.bigclown.com/sensor-module)**
+* **[Core Module](https://shop.bigclown.com/core-module)**
+* **[LoRa Module](https://shop.bigclown.com/lora-module)**
+* **[Mini Battery Module](https://shop.bigclown.com/mini-battery-module)**
 
 ## License
 
