@@ -2,9 +2,9 @@
 
 # LoRa pulse counter kit firmware
 
-[![Travis](https://img.shields.io/travis/bigclownlabs/bcf-kit-lora-pulse-counter/master.svg)](https://travis-ci.org/bigclownlabs/bcf-kit-lora-pulse-counter)
-[![Release](https://img.shields.io/github/release/bigclownlabs/bcf-kit-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-kit-lora-pulse-counter/releases)
-[![License](https://img.shields.io/github/license/bigclownlabs/bcf-kit-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-kit-lora-pulse-counter/blob/master/LICENSE)
+[![Travis](https://img.shields.io/travis/bigclownlabs/bcf-lora-pulse-counter/master.svg)](https://travis-ci.org/bigclownlabs/bcf-lora-pulse-counter)
+[![Release](https://img.shields.io/github/release/bigclownlabs/bcf-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-lora-pulse-counter/releases)
+[![License](https://img.shields.io/github/license/bigclownlabs/bcf-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-lora-pulse-counter/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
 
 This repository contains firmware LoRa pulse counter for [Core Module](https://shop.bigclown.com/core-module).
@@ -15,7 +15,7 @@ If you want to get more information about Core Module, firmware and how to work 
 
 ## Introduction
 
-LoRa pulse counter to be used as a wireles counter. Device running from two AAA batteries. It reports measured data to LoRaWAN network every 60 minutes.
+LoRa pulse counter to be used as a wireles counter. Device running from two AAA batteries. It reports measured data to LoRaWAN network every 15 minutes.
 
 ## Hardware
 
