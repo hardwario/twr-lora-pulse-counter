@@ -1,17 +1,17 @@
-<a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
+<a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
 # LoRa pulse counter kit firmware
 
 [![Travis](https://img.shields.io/travis/bigclownlabs/bcf-lora-pulse-counter/master.svg)](https://travis-ci.org/bigclownlabs/bcf-lora-pulse-counter)
 [![Release](https://img.shields.io/github/release/bigclownlabs/bcf-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-lora-pulse-counter/releases)
 [![License](https://img.shields.io/github/license/bigclownlabs/bcf-lora-pulse-counter.svg)](https://github.com/bigclownlabs/bcf-lora-pulse-counter/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
+[![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
 
 This repository contains firmware LoRa pulse counter for [Core Module](https://shop.bigclown.com/core-module).
 
 If you want to get more information about Core Module, firmware and how to work with it, please follow this link:
 
-**https://www.bigclown.com/doc/firmware/basic-overview/**
+**https://developers.hardwario.com/firmware/basic-overview/**
 
 ## Introduction
 
