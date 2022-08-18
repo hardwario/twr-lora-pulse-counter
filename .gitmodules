@@ -4,6 +4,3 @@
 [submodule "vscode"]
 	path = .vscode
 	url = https://github.com/bigclownlabs/bcf-vscode.git
-[submodule ".vscode"]
-	path = .vscode
-	url = https://github.com/bigclownlabs/bcf-vscode.git
